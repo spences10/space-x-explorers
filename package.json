@@ -11,6 +11,8 @@
 	"devDependencies": {
 		"@sveltejs/adapter-static": "^1.0.0-next.17",
 		"@sveltejs/kit": "next",
+		"graphql": "^15.5.2",
+		"graphql-request": "^3.5.0",
 		"prettier": "~2.2.1",
 		"prettier-plugin-svelte": "^2.2.0",
 		"svelte": "^3.34.0"
